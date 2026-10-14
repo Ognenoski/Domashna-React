@@ -23,7 +23,7 @@ export const Movies = ({movies}) => {
                                 <td>{movie.genre}</td>
                                 <td>{movie.plot}</td>
                                 <td>
-                                   <a href={movie.imdbLink}>Link</a>
+                                   <a href={movie.imdbLink} target="_blank">Link</a>
                                    </td>
                                 <td>
                                    <img src={movie.imgUrl}
