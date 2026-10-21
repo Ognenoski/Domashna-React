@@ -1,0 +1,1 @@
+Da se dodade delete funkcionalnost na kodot od casot i da se napravi Random generated id na elementite, i da se dodade validacija pri vnes na element
